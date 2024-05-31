@@ -1,6 +1,6 @@
 const UserData = {
-    maxAddLink: 3,
-    premiumMaxAddLink: 5,
+    maxAddLink: 1,
+    premiumMaxAddLink: 2,
     allowedDomains: ['.com', '.net', '.repl.co', '.glitch.me', '.xyz']
 }
 
